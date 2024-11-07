@@ -2,15 +2,15 @@ SE_Day1_Assignment
 
 **#Part 1: Introduction to Software Engineering**
 
-**Explain what software engineering is and discuss its importance in the technology industry.
+**Explain what software engineering is and discuss its importance in the technology industry.**
 -software engineering is the art of providing solutions to real world problems using computer systems.
 
-**Identify and describe at least three key milestones in the evolution of software engineering.  
+**Identify and describe at least three key milestones in the evolution of software engineering. **
 -development of programming languages such as c and fortain
 -the establishment of software engineering as a discipline, the advent of structured programming in the 1970s,
 -the rise of agile methodologies in the 2000s.
 
-******List and briefly explain the phases of the Software Development Life Cycle. ******
+**List and briefly explain the phases of the Software Development Life Cycle.**
 -requirement gathering and analysis-this involves getting the users needs and doing the analysis.
 -design-the analysed user requirements are used to produce a design of the system.
 -implementation-the design is transformed into a code.
@@ -26,6 +26,8 @@ SE_Day1_Assignment
 -a Quality Assurance Engineer-Ensures software quality by designing and executing test plans.
 -Project Manager Oversees the planning, execution, and delivery of software projects.
 **Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.**
+-intergrated development environments provides with an environment on where we can  write,test and debuy our code
+-version control systems enables us to keep track of our code.
 **What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.****
  - Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
   - Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
@@ -38,6 +40,7 @@ SE_Day1_Assignment
   - System Testing: Testing the entire software system as a whole.
   - Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
   -Importance of Quality Control: Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products.
+
 **#Part 2: Introduction to AI and Prompt Engineering**
 
 Define prompt engineering and discuss its importance in interacting with AI models.

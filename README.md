@@ -50,8 +50,11 @@ SE_Day1_Assignment
 Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models. 
 enables us structure questions clear and specific, so the AI understands exactly what you need."
 
-
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+**Vague Prompt:** "Tell me about world war II."
+"**Improved Prompt:** "Provide a summary of the key events and significance of the world war II."
+"**Explanation:**The improved prompt is more effective because it specifies exactly what aspect of world war II to focus on, defining a clear time frame when it occured, and outlines what type of information is desired.This clarity helps guide responses, ensuring they are relevant, detailed, and informative.
+
 
 
 
